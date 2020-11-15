@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444940997976",
+    "firebase_url": "https://oldus-821b7.firebaseio.com",
+    "project_id": "oldus-821b7",
+    "storage_bucket": "oldus-821b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444940997976:android:a5a2a9af13725517ca412d",
+        "android_client_info": {
+          "package_name": "com.example.oldies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444940997976-604d369rkfdqmi0kr02ldciva8leur37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn--EMVtpWWcUSDVLhEsQeYk2X3DHsxoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444940997976-604d369rkfdqmi0kr02ldciva8leur37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
