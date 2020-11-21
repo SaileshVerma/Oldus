@@ -32,7 +32,7 @@ class Auth with ChangeNotifier {
   Future<void> _authenticate(
       String email, String password, String urlSegment) async {
     final url =
-        'https://identitytoolkit.googleapis.com/v1/accounts:$urlSegment?key=AIzaSyDn--EMVtpWWcUSDVLhEsQeYk2X3DHsxoM';
+        'https://identitytoolkit.googleapis.com/v1/accounts:$urlSegment?key=[auth api key]';
     //this both are genrated by firebase
 
     try {
