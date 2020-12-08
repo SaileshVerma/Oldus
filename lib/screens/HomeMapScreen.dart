@@ -26,10 +26,10 @@ class _HomeMapScreenState extends State<HomeMapScreen> {
         layers: [
           new TileLayerOptions(
             urlTemplate:
-                "https://api.mapbox.com/styles/v1/sailesh150/ckghx50w21u4w19mowiz4shnv/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoic2FpbGVzaDE1MCIsImEiOiJja2dkYmU2aGMwaGI2MnFvN3JmdjVwY2Q3In0.hKCVREGWZY7BM6knyJPFsA",
+                "https://api.mapbox.com/styles/v1/sailesh150/ckghx50w21u4w19mowiz4shnv/tiles/256/{z}/{x}/{y}@2x?access_token=[accesss token]",
             additionalOptions: {
               'accessToken':
-                  'pk.eyJ1Ijoic2FpbGVzaDE1MCIsImEiOiJja2dkYmU2aGMwaGI2MnFvN3JmdjVwY2Q3In0.hKCVREGWZY7BM6knyJPFsA',
+                  '[access token]',
               'id': 'mapbox.satellite',
             },
           ),
